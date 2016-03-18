@@ -2,235 +2,235 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-49f34e80beecd45672c1c6dcf113df33a4f454c1.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-05b720a84ab0b04c996b44dce49c2bfd02adb744.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-4f01b899317549b311f7c0a1ff2ebad6d531409c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-b1522a830b57292b63da5c628d5b4844d0ad5d86.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-40be80d20f4e86e49afb412b05bc212f453efd38.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-5051353b6a155b418c1ece15d31922a08466e383.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-03e505f4d3e925b3d796baef9a912a35414a7d17.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-2b0e9420473f014e552fef1e0289b640e0a6c83b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-e6509bbe08b07497ba09fa94bbe46c9566004540.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-b96b17e9c7c5b52e749cd6d53b4adce80c7fe482.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-ac6d30b726a664e51f6372c7d5acde41379ecddf.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-1365d20ab7a06e27255ebeb15041427d4ebe79d7.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-9765b5f2a12433b9cc3ca522a9262ea8e068b76f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-dae22bfd6edc98e4e7c8db4fa2a54362be7616b4.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-2c85c7bc5b2c5661946d889c0ca6b62da62c1dc3.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-31a9682bc99562ae3236a5c20d6f6ffb5107f0e0.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-1d9045cbd0767d8d2ba887c24a8f1b8a3624c55b.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-702e17f4d6dc73348a9c3679cd8792b8356db8f9.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-cd0714dae400f2526779105271d5a9bd75524485.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-f3947eb92ecfaaac2c1ab60b224acc1c56241970.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-a46f1d3a200852f30486e04de7f2ed09abed2d24.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-a4c640e8d3fe570ba291d7278250e25a89c80a3f.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-18e5f3e3e2c8da89519a835e6f03c639ce5409de.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-a0a2906368566479e29c83a87a788b86e29b202d.jar" />
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-56cb3de99e3c64b9bde03d0fc5c19396ac25669b.jar" />
     </item>
     <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-5b9d5f66dc084c83b967a05c2d161613d5cbbf24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-3a2aaed3e42daacefb00b51260572737818d74b1.jar" />
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-56af4abd6dff095aef69fe67138f28ef85617a34.jar" />
     </item>
     <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-8c23fb0115c4b348547b491d410f82ee41bece95.jar" />
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-92c560807bbb6523cc3cd8ef62ae27982097a7f5.jar" />
     </item>
     <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-d32505b0272ed04481a8e236327042b41544bc0e.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-2093001f477cbe461311b896da9382852b9cc690.jar" />
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-1ea5f3ded0feb640567c8c97ae50b2e1b786d984.jar" />
     </item>
     <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-f0a140b764063965565fe7ba9bbda66b4fa9718a.jar" />
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-41c37dae6ca4e9741bc9279e994db638b6f1f96d.jar" />
     </item>
     <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-95dd552dcfff36b65ec149640968965fe05f8c0b.jar" />
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-40cece6a419637ffae0590474ab742b20b5c324c.jar" />
     </item>
     <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-b50576c368e988c4667b99c46bfcda391705842a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-14a129b1f07e2a71a593e2707aebfc3e52b5d290.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-59a83bc160f4651f5337964acb63fb15003b1167.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-dc58615b3e9e8e13e706c55b95673b907f902f3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a8412b654dab86d57bf90683367488211c8a81f1">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-c2e7771c9e35f5c02258bc1125ff562ed413d537.jar" />
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-ea89aba6db497e37914a649880cbe0c586c3638d.jar" />
     </item>
     <item
-        jar="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-0386df230b3ebbd76a21f87483a1d3fbfbfe9495.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-ca90ad26c73e7ef137338d962e26338d5bd93605.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-0ea0bcccf43ccb750890a960fde8baa62e0c9c4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-8289a6fd29f86ae207d2d8d4a3eb8c19c61435e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-13908dfefaeef90a3287a3283f4f62da94077234.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-d62e53aa0b04164055ab591b770d4790b43a7528.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-8d2126588554538528e29028d332db786582e5d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-6a85ed970145e8f8640e9958fd20b8587d0e25aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-11d9bb5ecf8a4f657d953e8c6901a663b11ce361.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-0c6e0800cf9017f12e0eaa42ca090dea66eda14e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-00c7797d2efe71a1ead7ff1c7738f52a1e110844.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-5975d42de6f9b7bde85d0ce99e57973c388a67a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-052c17657d34098d2af23a051d478c37fd3d2cdd.jar" />
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-afdf49bcc20148221c00b39930ad443e42b1343b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-f9da15b25c48bb6d55b15061805a63823834ac87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-49124cb695f9073cb277373cdd0e723542b1af7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-87373d47e6809d4082de7f8d32d35a0803496e20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-bc51214ac156f3a98c42edab38b3d729d190e62d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-f9af2d9e26aeafdf7e55e4be5ad753fae90b9e9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-7bdf3a745c115d4f1fccd966bb28614adf5dc3a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\classes-1b16cfc44f6b58f36385f0f829f7f9edbf16c11f.jar" />
     </item>
     <item
         jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="C:\Users\Dell\Documents\STUDY\6th sem\SE\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-a29c24dc9861a6d31b8ce8c3af5bc5c527c36153.jar" />
+        <dex dex="C:\Users\Dell\Desktop\EGM-FrontEnd\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-a29c24dc9861a6d31b8ce8c3af5bc5c527c36153.jar" />
     </item>
 
 </items>

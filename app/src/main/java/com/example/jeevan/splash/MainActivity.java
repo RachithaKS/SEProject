@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void callRoundAbout(View v){
-        startActivity(new Intent(MainActivity.this, MapsActivity1.class));
+        startActivity(new Intent(MainActivity.this, RoundAbout.class));
     }
     public void callFreeStyle(View v){
         startActivity(new Intent(MainActivity.this, FreeStyle.class));
